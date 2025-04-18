@@ -30,6 +30,10 @@ h1 > a {
     text-decoration: none;
 }
 
+h1{
+    text-align: center;
+}
+
 li > a {
     font-family: "Kanit", sans-serif;
     color: green;
