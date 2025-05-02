@@ -44,4 +44,19 @@ h2,h4{
     color: green;
 }
 
+nav ul{
+    list-style: none;
+    text-align: center;
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+    padding: 10px 0;
+    
+}
+
+nav ul li{
+    display: inline;
+    letter-spacing: 5px;
+    padding: 0 10px;
+}
+
 
